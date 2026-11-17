@@ -1,0 +1,62 @@
+date,category,account,amount,memo
+2026-07-01,Consulting Revenue,Operating,13673.28,advisory retainer
+2026-07-02,Retainer Revenue,Operating,2624.39,support retainer
+2026-07-04,Utilities,Operating,-267.11,electricity
+2026-07-05,Marketing,Operating,-746.32,paid search
+2026-07-06,Payroll,Operating,-9885.67,contractor payout
+2026-07-10,Retainer Revenue,Operating,5771.38,monthly retainer
+2026-07-11,Product Revenue,Operating,5958.49,annual plan
+2026-07-17,Payroll,Operating,-11702.99,payroll taxes
+2026-07-19,Professional Fees,Operating,-1020.88,tax prep
+2026-07-22,Rent,Operating,-6500.0,office lease
+2026-07-27,Software,Operating,-1418.75,analytics seats
+2026-08-01,Rent,Operating,-6500.0,office lease
+2026-08-03,Consulting Revenue,Operating,9031.52,advisory retainer
+2026-08-03,Travel,Operating,-763.49,client visit
+2026-08-06,Consulting Revenue,Operating,5980.82,project invoice
+2026-08-07,Retainer Revenue,Operating,6436.31,monthly retainer
+2026-08-07,Utilities,Operating,-346.34,internet
+2026-08-09,Software,Operating,-1739.68,analytics seats
+2026-08-12,Consulting Revenue,Operating,9789.6,advisory retainer
+2026-08-12,Professional Fees,Operating,-2277.82,tax prep
+2026-08-13,Product Revenue,Operating,13473.91,annual plan
+2026-08-16,Product Revenue,Operating,6902.39,seat expansion
+2026-08-17,Marketing,Operating,-1403.15,paid search
+2026-08-17,Professional Fees,Operating,-501.77,legal review
+2026-08-19,Software,Operating,-2083.94,analytics seats
+2026-08-22,Payroll,Operating,-10771.08,contractor payout
+2026-08-25,Payroll,Operating,-10807.22,contractor payout
+2026-08-27,Retainer Revenue,Operating,6915.76,monthly retainer
+2026-09-01,Software,Operating,-1958.56,source control
+2026-09-04,Rent,Operating,-6500.0,office lease
+2026-09-07,Consulting Revenue,Operating,8192.7,data audit
+2026-09-07,Consulting Revenue,Operating,4152.71,advisory retainer
+2026-09-08,Retainer Revenue,Operating,6205.38,support retainer
+2026-09-13,Travel,Operating,-1703.82,meals
+2026-09-13,Utilities,Operating,-475.06,internet
+2026-09-14,Marketing,Operating,-1825.26,content retainer
+2026-09-15,Retainer Revenue,Operating,8734.59,monthly retainer
+2026-09-16,Consulting Revenue,Operating,3497.39,data audit
+2026-09-21,Product Revenue,Operating,7954.39,usage overage
+2026-09-22,Professional Fees,Operating,-1996.53,tax prep
+2026-09-23,Payroll,Operating,-11495.94,contractor payout
+2026-09-27,Marketing,Operating,-1663.59,paid search
+2026-09-27,Payroll,Operating,-10094.95,contractor payout
+2026-10-01,Product Revenue,Operating,5453.11,usage overage
+2026-10-02,Travel,Operating,-231.76,rail fare
+2026-10-06,Software,Operating,-2178.66,source control
+2026-10-07,Payroll,Operating,-10475.49,semi-monthly payroll
+2026-10-07,Travel,Operating,-311.16,meals
+2026-10-08,Professional Fees,Operating,-808.58,legal review
+2026-10-09,Consulting Revenue,Operating,4458.82,implementation
+2026-10-10,Payroll,Operating,-11918.98,semi-monthly payroll
+2026-10-11,Consulting Revenue,Operating,10258.56,advisory retainer
+2026-10-14,Product Revenue,Operating,3638.1,usage overage
+2026-10-17,Consulting Revenue,Operating,3534.45,project invoice
+2026-10-17,Marketing,Operating,-1636.4,content retainer
+2026-10-17,Product Revenue,Operating,4941.9,subscription renewals
+2026-10-19,Professional Fees,Operating,-862.16,legal review
+2026-10-19,Retainer Revenue,Operating,4430.52,support retainer
+2026-10-20,Rent,Operating,-6500.0,office lease
+2026-10-20,Utilities,Operating,-596.54,electricity
+2026-10-26,Marketing,Operating,-2296.97,content retainer
